@@ -167,6 +167,7 @@ If you have a question or aren’t sure if something is worth including, you can
 
 - [pdfcrowd](https://pdfcrowd.com/) - Automatically convert web pages to PDF. Also includes an API.
 - [HTML to PDF](https://html2pdf.com/) - Free and automatic web to PDF converter.
+- [pdfkits.app](https://pdfkits.app) - Online toolkit to merge, split, compress, convert and manipulate PDF files.
 - [Webpage to PDF](https://webpagetopdf.com/) - Paste in a URL and get a PDF file.
 - [W2P](https://www.web2pdfconvert.com/) - Another web to PDF converter.
 - [PDFmyURL](https://pdfmyurl.com/) - Accurate, feature-rich web to PDF converter.
