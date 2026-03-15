@@ -188,6 +188,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [PDFElement](https://pdf.wondershare.com/) - Software for editing, creating, conversion, and more.
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF files interactively in HTML.
 - [nodeice](https://github.com/IonicaBizau/nodeice) - PDF invoice generator.
+- [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert, and more. Client-side processing via WebAssembly; files never leave the browser.
 - [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Watermark removal tool in Python.
 
 ## Software
