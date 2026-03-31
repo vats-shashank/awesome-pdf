@@ -190,6 +190,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF files interactively in HTML.
 - [nodeice](https://github.com/IonicaBizau/nodeice) - PDF invoice generator.
 - [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert, and more. Client-side processing via WebAssembly; files never leave the browser.
+- [Fluranto](https://www.fluranto.com/en/pdf) - Browser-based PDF tools with no signup. Merge, split, reorder, rotate, extract pages, add page numbers, watermark, and convert between images and PDF.
 - [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Watermark removal tool in Python.
 
 ## Software
