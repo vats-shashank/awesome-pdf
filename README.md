@@ -143,6 +143,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [WebSequenceDiagrams](https://www.websequencediagrams.com/embedding.html) - Generate URL diagrams, in PDF and other formats.
 
 - [Power PDF](https://www.kofax.com/products/power-pdf) - Desktop software promising accurate file conversion.
+- [PDFSpark](https://pdfspark.dev) - Free PDF generation API.
 
 ## Documentation
 
