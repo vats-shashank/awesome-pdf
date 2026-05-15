@@ -195,6 +195,7 @@ If you have a question or aren’t sure if something is worth including, you can
 - [Fluranto](https://www.fluranto.com/en/pdf) - Browser-based PDF tools with no signup. Merge, split, reorder, rotate, extract pages, add page numbers, watermark, and convert between images and PDF.
 - [AllPDFMagic](https://allpdfmagic.com) - Free online PDF toolbox with 33+ tools and AI-powered workflows. Merge, split, compress, convert, edit, sign, and protect PDFs with zero signup. Features AI Summarizer, Invoice Extractor, Contract Analyzer, and Multi-PDF Chat.
 - [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Watermark removal tool in Python.
+- [questio](https://github.com/abcreativ/questio) - Forensic PDF auditor CLI for detecting edited, forged, or tampered PDFs. Runs locally, no uploads.
 
 ## Software
 
